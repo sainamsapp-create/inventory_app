@@ -47,9 +47,8 @@
 ## ภาพหลักฐานการดีบัก (Debugging Evidence)
 
 ### 1. ภาพหน้าจอการทำงานของเว็บแอปพลิเคชัน (Frontend & API Response)
-<img width="1279" height="719" alt="ภาพหน้าจอการทำงานของเว็บแอปพลิเคชัน (Frontend   API Response)2" src="https://github.com/user-attachments/assets/a883ad70-4dd2-4116-8805-5f22f43f88db" />
-<img width="1279" height="719" alt="debug-frontend" src="https://github.com/user-attachments/assets/1b3f8b35-f519-4280-bd6c-261e13f18b9a" />
-
+<img width="1279" height="719" alt="ภาพหน้าจอการทำงานของเว็บแอปพลิเคชัน (Frontend   API Response)1" src="https://github.com/user-attachments/assets/b501b496-8d19-46a5-a02d-c2941de2709c" />
+<img width="1279" height="719" alt="ภาพหน้าจอการทำงานของเว็บแอปพลิเคชัน (Frontend   API Response)2" src="https://github.com/user-attachments/assets/b38a4b24-1b64-48bd-8a48-b81715c37404" />
 
 ### 2. ภาพหน้าจอการทำงานของ Server / Database Console
 > <img width="1279" height="719" alt="debug-api" src="https://github.com/user-attachments/assets/31f70a65-d9f9-48f4-bb4e-24d02d4e0157" />
